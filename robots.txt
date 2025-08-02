@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zelo.github.io/sitemap.xml
+Sitemap: https://zelo-415.github.io/sitemap.xml
